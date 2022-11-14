@@ -75,31 +75,26 @@ analytics:
 author:
   name             : "Yubo Cui"
   avatar           : "profile.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D. Candidate"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=PJ9x-6AAAAAJ&hl=zh-CN&oi=sra"
+  email            : "ybcui95@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/3bobo"
   google_plus      :
   keybase          :
-  instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  orcid            : "http://orcid.org/0000-0001-5302-0484"
   steam            :
   tumblr           :
   vine             :
