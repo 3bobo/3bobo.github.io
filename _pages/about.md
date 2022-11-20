@@ -38,8 +38,8 @@ Publications
   Jiayao Shan†, Sifan Zhou†, Zheng Fang, **Yubo Cui**   
   *IEEE International Conference on Intelligent Robots and Systems (**IROS**) 2021*
 
-- 3D-SiamRPN: An End-to-end Learning Method for Real-time 3D Single Object Tracking using Raw Point Cloud
-  Zheng Fang, Sifan Zhou, **Yubo Cui**, Sebastian Scherer
+- 3D-SiamRPN: An End-to-end Learning Method for Real-time 3D Single Object Tracking using Raw Point Cloud 
+  Zheng Fang, Sifan Zhou, **Yubo Cui**, Sebastian Scherer   
   *IEEE Sensors Journal*
 
 
