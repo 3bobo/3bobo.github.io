@@ -23,16 +23,16 @@ News
 Publications
 ======
 - Exploiting More Information in Sparse Point Cloud for 3D Single Object Tracking
- **Yubo Cui**, Jiayao Shan, Zuoxu Gu, Zhiheng Li, Zheng Fang
- *IEEE Robotics and Automation (**RAL**)*
+  **Yubo Cui**, Jiayao Shan, Zuoxu Gu, Zhiheng Li, Zheng Fang
+  *IEEE Robotics and Automation (**RAL**)*
 
 - 3D Object Tracking with Transformer
  **Yubo Cui**, Zheng Fang, Jiayao Shan, Zuoxu Gu, Sifan Zhou
- *32nd British Machine Vision Conference (**BMVC**) 2021*
+  *32nd British Machine Vision Conference (**BMVC**) 2021*
 
- - Real-time 3D Single Object Tracking with Transformer
- Jiayao Shan†, Sifan Zhou†, **Yubo Cui†**, Zheng Fang
- *IEEE Transactions on Multimedia (**TMM**)*
+- Real-time 3D Single Object Tracking with Transformer
+  Jiayao Shan†, Sifan Zhou†, **Yubo Cui†**, Zheng Fang
+  *IEEE Transactions on Multimedia (**TMM**)*
 
 - PTT : Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds
   Jiayao Shan†, Sifan Zhou†, Zheng Fang, **Yubo Cui**
