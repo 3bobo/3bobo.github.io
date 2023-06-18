@@ -1,16 +1,9 @@
 ---
-<img src="images/3dsiamrpn.png" alt="architecture"  />
 title: "3D-SiamRPN: An End-to-end Learning Method for Real-time 3D Single Object Tracking using Raw Point Cloud"
 collection: publications
 permalink: /publication/3d_siamrpn
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2020-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/3D-SiamRPN.pdf'
-# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-<!-- This paper is about the number 1. The number 2 is left for future work. -->
-
-[Download paper here](http://academicpages.github.io/files/3D-SiamRPN.pdf)
-
-<!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
+date: 2022-01-01
+venue: 'PS: Political Science & Politics'
+paperurl: '/files/3D-SiamRPN.pdf'
+link: 'https://ieeexplore.ieee.org/document/9235506'
+citation: 'Z. Fang, S. Zhou, Y. Cui and S. Scherer, "3D-SiamRPN: An End-to-End Learning Method for Real-Time 3D Single Object Tracking Using Raw Point Cloud," in IEEE Sensors Journal, vol. 21, no. 4, pp. 4995-5011, 15 Feb.15, 2021, doi: 10.1109/JSEN.2020.3033034.'
