@@ -1,13 +1,6 @@
 ---
 title: "3D-SiamRPN: An End-to-end Learning Method for Real-time 3D Single Object Tracking using Raw Point Cloud"
-# header:
-#     teaser: "3dsiamrpn.png"
-# gallery:
-#   - url: 3dsiamrpn.png
-#     image_path: 3dsiamrpn.png
-#     alt: "Overall Network"
-#     title: "Overall Network"
-# excerpt: "<img src='/images/3dsiamrpn.png' alt=''>"
+image: /images/3dsiamrpn.png"
 excerpt: 'Zheng Fang, Sifan Zhou, **Yubo Cui**, Sebastian Scherer.'
 collection: publications
 permalink: /publication/3d_siamrpn

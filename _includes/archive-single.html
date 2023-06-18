@@ -54,6 +54,9 @@
         </details>
       {% endif %}
       
+      {% if post.image %}
+        <img src= "{{ post.image"}}" alt="">
+      {% endif %}
       
       <p>
       {% if post.link %}
@@ -102,7 +105,7 @@
         {{ post.venue }}
       {% endif %}
       </p>
-      
+
     {% elsif post.collection == 'posts' and post.date %}
       <p class="page__date"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
     {% endif %}
