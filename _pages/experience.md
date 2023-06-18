@@ -17,7 +17,7 @@ Education Experience
 
 Work Experience
 ======
-* <img src="..\images\baidu.png" alt="drawing" style="width:50px;" align="middle" border="3"/> Baidu *Reseach Intern* | 2022.11-2023.04
+* <img src="..\images\baidu.png" alt="drawing" style="width:20px;" align="middle" border="3"/> Baidu *Reseach Intern* | 2022.11-2023.04
   * Temporal-based 3D LiDAR Object Detection
   * Supervisor: [Xiaoqing Ye](https://shuluoshu.github.io/) and [Zhikang Zou](https://bigteacher-777.github.io/)
 
