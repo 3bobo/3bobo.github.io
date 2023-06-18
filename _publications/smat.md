@@ -1,5 +1,5 @@
 ---
-title: "3D Object Tracking with Transformer"
+title: "Exploiting More Information in Sparse Point Cloud for 3D Single Object Tracking"
 excerpt: '**Yubo Cui**, Jiayao Shan, Zuoxu Gu, Zhiheng Li, Zheng Fang'
 collection: publications
 permalink: /publication/smat
