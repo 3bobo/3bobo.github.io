@@ -3,7 +3,7 @@ title: "PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Poi
 excerpt: 'Jiayao Shan, Sifan Zhou, Zheng Fang, **Yubo Cui**'
 collection: publications
 permalink: /publication/ptt
-date: 2021-06
+date: 2021-06-27
 venue: 'IEEE International Conference on Intelligent Robots and Systems (IROS) 2021'
 paperurl: '/files/PTT.pdf'
 link: 'https://ieeexplore.ieee.org/document/9636821'

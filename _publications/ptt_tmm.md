@@ -3,7 +3,7 @@ title: "Real-time 3D Single Object Tracking with Transformer"
 excerpt: 'Jiayao Shan†, Sifan Zhou†, **Yubo Cui†**, Zheng Fang'
 collection: publications
 permalink: /publication/ptt_tmm
-date: 2022-02
+date: 2022-02-20
 venue: 'IEEE Transactions on Multimedia (TMM)'
 paperurl: '/files/PTT_TMM.pdf'
 link: 'https://ieeexplore.ieee.org/document/9695195'

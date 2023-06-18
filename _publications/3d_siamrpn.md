@@ -3,7 +3,7 @@ title: "3D-SiamRPN: An End-to-end Learning Method for Real-time 3D Single Object
 excerpt: 'Zheng Fang; Sifan Zhou; **Yubo Cui**; Sebastian Scherer.'
 collection: publications
 permalink: /publication/3d_siamrpn
-date: 2021-02
+date: 2021-02-15
 venue: 'IEEE Sensors Journal'
 paperurl: '/files/3D-SiamRPN.pdf'
 link: 'https://ieeexplore.ieee.org/document/9235506'

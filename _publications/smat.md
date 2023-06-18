@@ -3,7 +3,7 @@ title: "3D Object Tracking with Transformer"
 excerpt: '**Yubo Cui**, Jiayao Shan, Zuoxu Gu, Zhiheng Li, Zheng Fang'
 collection: publications
 permalink: /publication/smat
-date: 2022-10
+date: 2022-10-20
 venue: 'IEEE Robotics and Automation Letters (RAL)'
 paperurl: '/files/SMAT.pdf'
 link: 'https://ieeexplore.ieee.org/document/9899707'
