@@ -1,10 +1,10 @@
 ---
 title: "Exploiting More Information in Sparse Point Cloud for 3D Single Object Tracking"
-excerpt: '**Yubo Cui**, Jiayao Shan, Zuoxu Gu, Zhiheng Li, Zheng Fang. **IEEE RAL**'
+excerpt: '**Yubo Cui**, Jiayao Shan, Zuoxu Gu, Zhiheng Li, Zheng Fang.'
 collection: publications
 permalink: /publication/smat
 date: 2022-10-20
-# venue: 'IEEE Robotics and Automation Letters (RAL)'
+venue: 'IEEE Robotics and Automation Letters (RAL)'
 paperurl: '/files/SMAT.pdf'
 link: 'https://ieeexplore.ieee.org/document/9899707'
 github: 'https://github.com/3bobo/smat'
