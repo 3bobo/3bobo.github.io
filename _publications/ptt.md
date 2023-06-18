@@ -1,6 +1,6 @@
 ---
 title: "PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds"
-excerpt: 'Jiayao Shan, Sifan Zhou, Zheng Fang, Yubo Cui'
+excerpt: 'Jiayao Shan, Sifan Zhou, Zheng Fang, **Yubo Cui†**'
 collection: publications
 permalink: /publication/ptt
 date: 2021-02-15
