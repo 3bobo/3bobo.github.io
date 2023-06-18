@@ -17,10 +17,9 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Inter
-  * 3D Object Detection
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022.11-2023.04: Research Inter
+  * Temporal-based 3D LiDAR Object Detection
+  * Supervisor: [Xiaoqing Ye](https://shuluoshu.github.io/), [Zhikang Zou](https://bigteacher-777.github.io/)
 
 Publications
 ======

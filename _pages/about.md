@@ -14,6 +14,7 @@ My research interests focus on 3D computer vision and deep learning, especially 
 
 News
 ======
+2023.06: One paper accepted by RAL.  
 2022.10: One paper accepted by RAL.  
 2022.06: The [code](https://github.com/3bobo/lttr) of LTTR was released.  
 2022.01: One paper accepted by TMM.  
@@ -47,7 +48,9 @@ Professional Activities
 ======
 - Conference Reviewer:
   * IEEE International Conference on Intelligent Robots and Systems (IROS) 2021
+  * ACM International Conference on Multimedia (ACM MM) 2023
 
 - Journal Reviewer:
   * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)  
   * IEEE Transactions on Visualization and Computer Graphics (TVCG)
+  * IEEE Transactions on Intelligent Transportation Systems (TITS)
