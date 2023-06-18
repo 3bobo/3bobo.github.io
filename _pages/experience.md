@@ -17,7 +17,7 @@ Education Experience
 
 Work Experience
 ======
-* 2022.11-2023.04: Research Inter
+* 2022.11-2023.04: Baidu Shenzhen Research Inter
   * Temporal-based 3D LiDAR Object Detection
   * Supervisor: [Xiaoqing Ye](https://shuluoshu.github.io/), [Zhikang Zou](https://bigteacher-777.github.io/)
 
