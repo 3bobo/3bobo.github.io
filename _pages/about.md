@@ -17,11 +17,9 @@ News
 2023.06: One paper accepted by RAL.  
 2022.10: One paper accepted by RAL.  
 2022.06: The [code](https://github.com/3bobo/lttr) of LTTR was released.  
-2022.01: One paper accepted by TMM.  
-2021.10: One paper accepted by BMVC2021.  
-2021.06: One paper accepted by IROS2021.  
+2022.01: One paper accepted by TMM.
 
-Publications
+Selected Publications
 ======
 - Exploiting More Information in Sparse Point Cloud for 3D Single Object Tracking  
   **Yubo Cui**, Jiayao Shan, Zuoxu Gu, Zhiheng Li, Zheng Fang  
