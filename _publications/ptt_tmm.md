@@ -1,6 +1,6 @@
 ---
 title: "Real-time 3D Single Object Tracking with Transformer"
-excerpt: 'Jiayao Shan†, Sifan Zhou†, **Yubo Cui†**, Zheng Fang.'
+excerpt: 'Jiayao Shan†, Sifan Zhou†, **Yubo Cui†**, Zheng Fang (†Equally Contributed)'
 collection: publications
 permalink: /publication/ptt_tmm
 date: 2022-02-20
