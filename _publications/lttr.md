@@ -1,5 +1,6 @@
 ---
 title: "3D Object Tracking with Transformer"
+image: '/images/lttr.png'
 excerpt: '**Yubo Cui**, Zheng Fang, Jiayao Shan, Zuoxu Gu and Sifan Zhou.'
 collection: publications
 permalink: /publication/lttr

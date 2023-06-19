@@ -1,5 +1,6 @@
 ---
 title: "Exploiting More Information in Sparse Point Cloud for 3D Single Object Tracking"
+image: '/images/smat.png'
 excerpt: '**Yubo Cui**, Jiayao Shan, Zuoxu Gu, Zhiheng Li, Zheng Fang.'
 collection: publications
 permalink: /publication/smat
