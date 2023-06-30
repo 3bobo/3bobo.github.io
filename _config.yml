@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yubo Cui / Homepage"
+title                    : "Yubo Cui"
 title_separator          : "-"
 name                     : &name "Yubo Cui"
 description              : &description "personal description"
@@ -76,9 +76,9 @@ author:
   name             : "Yubo Cui"
   avatar           : "profile.jpeg"
   bio              : "Ph.D. Candidate"
-  location         : "Location"
+  location         : "Shenyang, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=PJ9x-6AAAAAJ&hl=zh-CN&oi=sra"
   email            : "ybcui95@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -88,7 +88,7 @@ author:
   dribbble         :
   flickr           :
   foursquare       :
-  github           : "https://github.com/3bobo"
+  github           : "3bobo"
   google_plus      :
   keybase          :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
