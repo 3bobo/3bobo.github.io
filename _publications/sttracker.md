@@ -1,6 +1,6 @@
 ---
 title: "STTracker: Spatio-Temporal Tracker for 3D Single Object Tracking"
-image: '/images/stt.png'
+image: '/images/sttracker.png'
 excerpt: '**Yubo Cui**, Zhiheng Li, Zheng Fang'
 collection: publications
 permalink: /publication/sttracker

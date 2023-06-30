@@ -21,6 +21,10 @@ News
 
 Selected Publications
 ======
+- STTracker: Spatio-Temporal Tracker for 3D Single Object Tracking  
+  **Yubo Cui**, Zhiheng Li, Zheng Fang  
+  *IEEE Robotics and Automation (**RAL**)*
+
 - Exploiting More Information in Sparse Point Cloud for 3D Single Object Tracking  
   **Yubo Cui**, Jiayao Shan, Zuoxu Gu, Zhiheng Li, Zheng Fang  
   *IEEE Robotics and Automation (**RAL**)*
@@ -28,10 +32,6 @@ Selected Publications
 - 3D Object Tracking with Transformer   
   **Yubo Cui**, Zheng Fang, Jiayao Shan, Zuoxu Gu, Sifan Zhou   
   *32nd British Machine Vision Conference (**BMVC**) 2021*
-
-- Real-time 3D Single Object Tracking with Transformer   
-  Jiayao Shan†, Sifan Zhou†, **Yubo Cui†**, Zheng Fang   
-  *IEEE Transactions on Multimedia (**TMM**)*
 
 Professional Activities
 ======
