@@ -4,7 +4,7 @@ image: '/images/stt.png'
 excerpt: '**Yubo Cui**, Zhiheng Li, Zheng Fang'
 collection: publications
 permalink: /publication/sttracker
-date: 2021-02-15
+date: 2023-06-30
 venue: 'IEEE Robotics and Automation Letters (RAL)'
 paperurl: '/files/STTracker.pdf'
 link: 'https://ieeexplore.ieee.org/document/10168228'
