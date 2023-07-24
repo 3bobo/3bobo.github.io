@@ -14,11 +14,10 @@ My research interests focus on 3D computer vision and deep learning, especially 
 
 News
 ======
-2023.07: The [code](https://github.com/3bobo/smat) of SMAT was released. 
+2023.07: The [code](https://github.com/3bobo/smat) of SMAT was released.  
 2023.06: One paper accepted by RAL.  
 2022.10: One paper accepted by RAL.  
-2022.06: The [code](https://github.com/3bobo/lttr) of LTTR was released.  
-2022.01: One paper accepted by TMM.
+2022.06: The [code](https://github.com/3bobo/lttr) of LTTR was released.
 
 Selected Publications
 ======
