@@ -14,10 +14,11 @@ My research interests focus on 3D computer vision and deep learning, especially 
 
 News
 ======
-2023.07: The [code](https://github.com/3bobo/smat) of SMAT was released.  
-2023.06: One paper accepted by RAL.  
-2022.10: One paper accepted by RAL.  
-2022.06: The [code](https://github.com/3bobo/lttr) of LTTR was released.
+2023.October: One paper is accepted by IEEE Transactions on Intelligent Vehicles (T-IV).  
+2023.July: The [code](https://github.com/3bobo/smat) of SMAT was released.  
+2023.June: One paper is accepted by RAL.  
+2022.October: One paper is accepted by RAL.  
+2022.June: The [code](https://github.com/3bobo/lttr) of LTTR was released.
 
 Selected Publications
 ======
@@ -36,8 +37,9 @@ Selected Publications
 Professional Activities
 ======
 - Conference Reviewer:
-  * IEEE International Conference on Intelligent Robots and Systems (IROS) 2021
+  * IEEE International Conference on Intelligent Robots and Systems (IROS) 2022
   * ACM International Conference on Multimedia (ACM MM) 2023
+  * IEEE International Conference on Robotics and Automation (ICRA) 2024
 
 - Journal Reviewer:
   * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)  
