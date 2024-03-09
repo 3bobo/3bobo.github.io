@@ -14,6 +14,8 @@ My research interests focus on 3D computer vision and deep learning, especially 
 
 News
 ======
+2024.Feb: One paper is accepted by IEEE ICRA2024.  
+2024.Jan: One paper is accepted by IEEE T-IV.  
 2023.Oct: One paper is accepted by IEEE T-IV.  
 2023.Jul: The [code](https://github.com/3bobo/smat) of SMAT was released.  
 2023.Jun: One paper is accepted by RAL.  
@@ -22,6 +24,10 @@ News
 
 Selected Publications
 ======
+- HyGFNet: Hybrid Geometry-Flow Learning Network for 3D Single Object Tracking  
+  **Yubo Cui**, Zheng Fang, Zhiheng Li, Shuo Li, Yu Lin  
+  *IEEE Transactions on Intelligent Vehicles (**TIV**)*
+
 - STTracker: Spatio-Temporal Tracker for 3D Single Object Tracking  
   **Yubo Cui**, Zhiheng Li, Zheng Fang  
   *IEEE Robotics and Automation (**RAL**)*
@@ -40,11 +46,13 @@ Professional Activities
   * IEEE International Conference on Intelligent Robots and Systems (IROS) 2022
   * ACM International Conference on Multimedia (ACM MM) 2023
   * IEEE International Conference on Robotics and Automation (ICRA) 2024
+  * IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2024
 
 - Journal Reviewer:
   * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)  
   * IEEE Transactions on Visualization and Computer Graphics (TVCG)
   * IEEE Transactions on Intelligent Transportation Systems (TITS)
+  * IEEE Robotics and Automation (RAL)
 
 <!-- <a href="https://info.flagcounter.com/yYJd"><img src="https://s01.flagcounter.com/count2/yYJd/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a> -->
 
