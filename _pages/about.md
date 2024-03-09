@@ -14,8 +14,8 @@ My research interests focus on 3D computer vision and deep learning, especially 
 
 News
 ======
-2024.Feb: One paper is accepted by IEEE ICRA2024.  
-2024.Jan: One paper is accepted by IEEE T-IV.  
+2024.Jan: One paper is accepted by IEEE ICRA2024.  
+2024.Feb: One paper is accepted by IEEE T-IV.  
 2023.Oct: One paper is accepted by IEEE T-IV.  
 2023.Jul: The [code](https://github.com/3bobo/smat) of SMAT was released.  
 2023.Jun: One paper is accepted by RAL.  

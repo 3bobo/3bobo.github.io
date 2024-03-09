@@ -1,7 +1,7 @@
 ---
 title: "HyGFNet: Hybrid Geometry-Flow Learning Network for 3D Single Object Tracking "
 image: '/images/hygfnet.png'
-excerpt: 'Yubo Cui, Zheng Fang, Zhiheng Li, Shuo Li, Yu Lin '
+excerpt: '**Yubo Cui**, Zheng Fang, Zhiheng Li, Shuo Li, Yu Lin '
 collection: publications
 permalink: /publication/hygfnet
 date: 2024-02-20
