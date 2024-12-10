@@ -14,6 +14,7 @@ My research interests focus on 3D computer vision and deep learning, especially 
 
 News
 ======
+2024.Dec: One paper is accepted by AAAI2025.  
 2024.Jun: One paper is accepted by IEEE IROS2024.  
 2024.Feb: One paper is accepted by IEEE T-IV.  
 2024.Jan: One paper is accepted by IEEE ICRA2024.  
