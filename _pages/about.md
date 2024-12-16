@@ -15,6 +15,7 @@ My research interests focus on 3D computer vision and deep learning, especially 
 News
 ======
 2024.Dec: One paper is accepted by AAAI2025.  
+2024.Dec: One paper is accepted by IEEE RAL.  
 2024.Jun: One paper is accepted by IEEE IROS2024.  
 2024.Feb: One paper is accepted by IEEE T-IV.  
 2024.Jan: One paper is accepted by IEEE ICRA2024.  
@@ -27,6 +28,10 @@ News
 
 Selected Publications
 ======
+- LOMA: Language-assisted Semantic Occupancy Network via Triplane Mamba  
+  **Yubo Cui**, Zhiheng Li, Jiaqiang Wang, Zheng Fang 
+  *The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**) 2025*
+
 - HyGFNet: Hybrid Geometry-Flow Learning Network for 3D Single Object Tracking  
   **Yubo Cui**, Zheng Fang, Zhiheng Li, Shuo Li, Yu Lin  
   *IEEE Transactions on Intelligent Vehicles (**TIV**)*
@@ -41,15 +46,15 @@ Selected Publications
 
 - 3D Object Tracking with Transformer   
   **Yubo Cui**, Zheng Fang, Jiayao Shan, Zuoxu Gu, Sifan Zhou   
-  *32nd British Machine Vision Conference (**BMVC**) 2021*
+  *The 32nd British Machine Vision Conference (**BMVC**) 2021*
 
 Professional Activities
 ======
 - Conference Reviewer:
   * IEEE International Conference on Intelligent Robots and Systems (IROS) 2022, 2024
   * ACM International Conference on Multimedia (ACM MM) 2023
-  * IEEE International Conference on Robotics and Automation (ICRA) 2024
-  * IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2024
+  * IEEE International Conference on Robotics and Automation (ICRA) 2024, 2025
+  * IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2024, 2025
 
 - Journal Reviewer:
   * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)  
