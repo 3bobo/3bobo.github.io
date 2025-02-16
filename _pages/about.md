@@ -14,6 +14,8 @@ My research interests focus on 3D computer vision and deep learning, especially 
 
 News
 ======
+2025.Jan: One paper is accepted by IEEE T-MM.  
+2025.Jan: One paper is accepted by IEEE ICRA2025.  
 2024.Dec: One paper is accepted by AAAI2025.  
 2024.Dec: One paper is accepted by IEEE RAL.  
 2024.Jun: One paper is accepted by IEEE IROS2024.  
@@ -28,6 +30,10 @@ News
 
 Selected Publications
 ======
+- Coupling and Decoupling : Towards Temporal Feedback for 3D Object Detection  
+  **Yubo Cui**, Zhikang Zou, Xiaoqing Ye, Xiao Tan, Zhiheng Li, and Zheng Fang  
+  *IEEE Transactions on Multimedia (**TMM**)*
+
 - LOMA: Language-assisted Semantic Occupancy Network via Triplane Mamba  
   **Yubo Cui**, Zhiheng Li, Jiaqiang Wang, Zheng Fang 
   *The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**) 2025*
@@ -38,10 +44,6 @@ Selected Publications
 
 - STTracker: Spatio-Temporal Tracker for 3D Single Object Tracking  
   **Yubo Cui**, Zhiheng Li, Zheng Fang  
-  *IEEE Robotics and Automation (**RAL**)*
-
-- Exploiting More Information in Sparse Point Cloud for 3D Single Object Tracking  
-  **Yubo Cui**, Jiayao Shan, Zuoxu Gu, Zhiheng Li, Zheng Fang  
   *IEEE Robotics and Automation (**RAL**)*
 
 - 3D Object Tracking with Transformer   
