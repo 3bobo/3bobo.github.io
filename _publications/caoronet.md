@@ -1,6 +1,6 @@
 ---
 title: "CAO-RONet: A Robust 4D Radar Odometry with Exploring More Information from Low-Quality Points"
-image: '/images/tfnet.png'
+image: '/images/caoronet.png'
 excerpt: 'Zhiheng Li, **Yubo Cui**, Ningyuan Huang, Chenglin Pang and Zheng Fang'
 collection: publications
 permalink: /publication/caoronet
