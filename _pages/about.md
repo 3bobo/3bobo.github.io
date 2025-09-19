@@ -14,6 +14,7 @@ My research interests focus on 3D computer vision and deep learning, especially 
 
 News
 ======
+2025.Sep: One paper is accepted by Pattern Recognition. 
 2025.Jan: One paper is accepted by IEEE T-MM.  
 2025.Jan: One paper is accepted by IEEE ICRA2025.  
 2024.Dec: One paper is accepted by AAAI2025.  
@@ -30,6 +31,10 @@ News
 
 Selected Publications
 ======
+- Dynamic Clustering Transformer for LiDAR-Based 3D Object Detection  
+  **Yubo Cui**, Zhiheng Li, and Zheng Fang  
+  *Pattern Recognition (**PR**)*
+
 - Coupling and Decoupling : Towards Temporal Feedback for 3D Object Detection  
   **Yubo Cui**, Zhikang Zou, Xiaoqing Ye, Xiao Tan, Zhiheng Li, and Zheng Fang  
   *IEEE Transactions on Multimedia (**TMM**)*
