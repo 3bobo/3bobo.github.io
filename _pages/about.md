@@ -14,7 +14,7 @@ My research interests focus on 3D computer vision and deep learning, especially 
 
 News
 ======
-2025.Sep: One paper is accepted by Pattern Recognition. 
+2025.Sep: One paper is accepted by Pattern Recognition.  
 2025.Jan: One paper is accepted by IEEE T-MM.  
 2025.Jan: One paper is accepted by IEEE ICRA2025.  
 2024.Dec: One paper is accepted by AAAI2025.  
@@ -46,10 +46,6 @@ Selected Publications
 - HyGFNet: Hybrid Geometry-Flow Learning Network for 3D Single Object Tracking  
   **Yubo Cui**, Zheng Fang, Zhiheng Li, Shuo Li, Yu Lin  
   *IEEE Transactions on Intelligent Vehicles (**TIV**)*
-
-- STTracker: Spatio-Temporal Tracker for 3D Single Object Tracking  
-  **Yubo Cui**, Zhiheng Li, Zheng Fang  
-  *IEEE Robotics and Automation (**RAL**)*
 
 - 3D Object Tracking with Transformer   
   **Yubo Cui**, Zheng Fang, Jiayao Shan, Zuoxu Gu, Sifan Zhou   
